@@ -1,0 +1,16 @@
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\obj\Debug\RSDKvRS.csprojAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\obj\Debug\RSDKvRS.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\bin\Debug\zlib.net.dll
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\obj\Debug\RSDKvRS.csproj.CopyComplete
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\bin\Debug\RSDKvRS.dll
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\bin\Debug\RSDKvRS.pdb
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\obj\Debug\RSDKvRS.dll
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKv1\obj\Debug\RSDKvRS.pdb
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\bin\Debug\RSDKvRS.dll
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\bin\Debug\RSDKvRS.pdb
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\bin\Debug\zlib.net.dll
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\obj\Debug\RSDKvRS.csprojAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\obj\Debug\RSDKvRS.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\obj\Debug\RSDKvRS.csproj.CopyComplete
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\obj\Debug\RSDKvRS.dll
+C:\Users\owner\Documents\GitHub\RSDK-Reverse\RSDKvRS\obj\Debug\RSDKvRS.pdb

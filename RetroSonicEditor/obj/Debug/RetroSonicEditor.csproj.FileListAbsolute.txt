@@ -1,0 +1,20 @@
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\bin\Debug\Retro-Sonic Editor.exe.config
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\bin\Debug\Retro-Sonic Editor.exe
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\bin\Debug\Retro-Sonic Editor.pdb
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\bin\Debug\Retro-SonicV2.dll
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\bin\Debug\Retro-SonicV2.pdb
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.csprojAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.AboutForm.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.MainForm.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.Properties.Resources.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.Tools.MapEditor.MainView.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.Tools.MapEditor.StageChunksView.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.Tools.MapEditor.StageMapView.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.csproj.GenerateResource.cache
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.csproj.CopyComplete
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\Retro-Sonic Editor.exe
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\Retro-Sonic Editor.pdb
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.Tools.MapEditor.ObjectPropertiesForm.resources
+C:\Users\owner\Documents\GitHub\Retro-Sonic\RetroSonicEditor\obj\Debug\RetroSonicEditor.Tools.RetroSonicStageListEditor.MainForm.resources

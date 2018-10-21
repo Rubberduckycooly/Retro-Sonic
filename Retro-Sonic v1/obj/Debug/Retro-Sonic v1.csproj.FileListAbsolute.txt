@@ -1,0 +1,6 @@
+C:\Users\owner\source\repos\Retro-Sonic\Retro-Sonic v1\bin\Debug\Retro-Sonic v1.dll
+C:\Users\owner\source\repos\Retro-Sonic\Retro-Sonic v1\bin\Debug\Retro-Sonic v1.pdb
+C:\Users\owner\source\repos\Retro-Sonic\Retro-Sonic v1\obj\Debug\Retro-Sonic v1.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Retro-Sonic\Retro-Sonic v1\obj\Debug\Retro-Sonic v1.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Retro-Sonic\Retro-Sonic v1\obj\Debug\Retro-Sonic v1.dll
+C:\Users\owner\source\repos\Retro-Sonic\Retro-Sonic v1\obj\Debug\Retro-Sonic v1.pdb
