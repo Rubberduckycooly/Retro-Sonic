@@ -12,10 +12,22 @@ namespace RetroSonicV2
         public ushort[][] MapLayout;
         public byte[] UnknownMapBytes = new byte[4]; 
         public byte UnknownByte1 = 0xff;
-        public List<Object> Objects = new List<Object>();
+        public Object[] Objects = new Object[300];
 
-        public readonly byte width = 78;
-        public readonly byte height = 10;
+        public byte width
+        {
+            get
+            {
+                return 78;
+            }
+        }
+        public byte height
+        {
+            get
+            {
+                return 10;
+            }
+        }
 
         public Scene(BinaryReader reader)
         {
@@ -45,7 +57,7 @@ namespace RetroSonicV2
 
             for (int i = 0; i < 301; i++)
             {
-                Objects.Add(new Object(reader));
+                Objects.[i] = new Object(reader);
             }
             if (reader.BaseStream.Length == 1506) UnknownByte1 = reader.ReadByte();
             reader.Close();
